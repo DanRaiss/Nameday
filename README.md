@@ -17,7 +17,6 @@ Currently, the following libraries are available:
 - Vue
 - Java
 
-
 ## API Reference
 
 #### Get today nameday
@@ -31,12 +30,35 @@ Currently, the following libraries are available:
 | `countryCode` | `string` | **Required**. ISO 3166-1 alpha-2 (example. CZ) |
 
 
-
-
 ## Documentation
 
 [Documentation](https://api.minuto.cz/namedays/dist/index.html)
 
+## Supported countries
+We support the following countries and their corresponding country codes
+
+| Country     | Code |
+| ----------- | ---- |
+| Austria     | at   |
+| Bulgaria    | bg   |
+| Czech       | cz   |
+| Germany     | de   |
+| Denmark     | dk   |
+| Estonia     | ee   |
+| Spain       | es   |
+| Finland     | fi   |
+| France      | fr   |
+| Greece      | gr   |
+| Croatia     | hr   |
+| Hungary     | hu   |
+| Italy       | it   |
+| Lithuania   | lt   |
+| Latvia      | lv   |
+| Poland      | pl   |
+| Russia      | ru   |
+| Sweden      | se   |
+| Slovakia    | sk   |
+| United States | us  |
 
 ## Contributing
 
